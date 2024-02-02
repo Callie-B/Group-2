@@ -1,0 +1,10 @@
+KFC logo at top of page
+Navigation bar below
+
+Paragraph description of what type of food served here, flanked by images of food
+
+Full menu, split into sections based on type/size of meal, as well as sides and drinks
+
+Restaurant finder with box to enter postcode and map to show distance
+
+Contact details and official website address at bottom of page
