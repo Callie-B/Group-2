@@ -8,3 +8,6 @@ Offers - Special offers and discounts.
 
 Menu
 
+*Dependent on location selected*
+
+    Details of selected location - Opening times / special menu items / location on map
