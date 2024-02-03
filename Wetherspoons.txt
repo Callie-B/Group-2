@@ -1,0 +1,10 @@
+Navigation Bar - Contains commonly used links and links to the other pages in this website.
+
+Information about your area - Contains information of which pub / restaurant is nearby at the point of log on to the site.
+
+Top products - Most sold products in your area.
+
+Offers - Special offers and discounts.
+
+Menu
+
