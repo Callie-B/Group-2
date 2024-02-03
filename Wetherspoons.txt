@@ -1,6 +1,9 @@
 Navigation Bar - Contains commonly used links and links to the other pages in this website.
 
 Information about your area - Contains information of which pub / restaurant is nearby at the point of log on to the site.
+- This will be in a scrolling list box type format to conform to other applications that users may have used. This decision is purely from an 'ease of use' standpoint.
+- Each location will have the specific name of the pub on the left, and an index ID to display which is closest. While on the right will have the distance in Miles from the user.
+
 
 Top products - Most sold products in your area.
 
