@@ -23,3 +23,5 @@ Menu
 *Dependent on location selected*
 
     Details of selected location - Opening times / special menu items / location on map
+    - Simple bullet points below the title of chosen location
+    - High Level, descript and informative info must be the only information displayed.
