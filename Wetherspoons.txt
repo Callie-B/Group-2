@@ -11,7 +11,9 @@ Top products - Most sold products in your area.
 
 
 Offers - Special offers and discounts.
-
+- This section may benefit from being in a separate tab, depending on the number of offers available.
+- In a list formation with text being formatted as follows: 30% off - Select items etc...
+- Banners within the list shall have a small amount of info about the offers below (for bundles and BOGO deals where context is required)
 
 Menu
 
