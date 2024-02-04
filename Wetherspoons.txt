@@ -6,8 +6,12 @@ Information about your area - Contains information of which pub / restaurant is 
 
 
 Top products - Most sold products in your area.
+- This will be in a scrolling banner with each product in their own 'tile' to increase attraction to each product and increase sales.
+- Will also include the nearest location that caters each item within the item 'tile' to potentially entice the user to travel and order.
+
 
 Offers - Special offers and discounts.
+
 
 Menu
 
