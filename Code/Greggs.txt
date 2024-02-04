@@ -1,0 +1,11 @@
+** Navigation bar will be at the top of the screen **
+
+//Title ("Greggs")//
+
+//Image of Greggs logo//
+
+description of what greggs is, the food it serves and a list of most popular food items
+
+// picture of most popular food item//
+
+contact details and link to website at the bottom of the page
