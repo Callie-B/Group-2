@@ -16,6 +16,9 @@ Offers - Special offers and discounts.
 - Banners within the list shall have a small amount of info about the offers below (for bundles and BOGO deals where context is required)
 
 Menu
+- This section must be a link to a separate PDF so the user can zoom without disrupting the browser being used
+- The user may also download the menu for future reference.
+- Otherwise this section may take up an excessive amount of space.
 
 *Dependent on location selected*
 
